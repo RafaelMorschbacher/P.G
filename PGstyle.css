@@ -1,0 +1,29 @@
+body{
+    text-align: center;
+    background-color: #29B6F6;
+    font-family: 'Kufam', cursive;
+}
+h1{
+    color: white;
+}
+img{
+    border-radius: 10px;
+    margin: 10px auto;
+}
+section{
+    margin: auto;
+    background-color: whitesmoke;
+    width: 30vw;
+    padding: 10px 0px;
+    border-radius: 10px;
+}
+input{
+    margin-left: 5px;
+}
+#botao{
+    margin-bottom: 5px;
+}
+#res{
+    line-height: 30px;
+}
+
